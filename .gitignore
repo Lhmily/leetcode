@@ -1,0 +1,4 @@
+.idea
+cmake-build-debug
+leetcode/editor/en/*.txt
+leetcode/editor/en/all.json
